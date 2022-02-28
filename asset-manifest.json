@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/joy-mollick/static/css/main.ae42ac5f.css",
+    "main.js": "/joy-mollick/static/js/main.c2b43d74.js",
+    "index.html": "/joy-mollick/index.html",
+    "main.ae42ac5f.css.map": "/joy-mollick/static/css/main.ae42ac5f.css.map",
+    "main.c2b43d74.js.map": "/joy-mollick/static/js/main.c2b43d74.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.c2b43d74.js"
+  ]
+}
